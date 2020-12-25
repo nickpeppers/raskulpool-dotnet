@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaskulPool", "RaskulPool.csproj", "{C1592B98-86D2-4C84-B36B-236DD1F16F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaskulPool.NUnit", "..\RaskulPool.NUnit\RaskulPool.NUnit.csproj", "{D1AF29B4-BCA1-44DE-904D-9BFD4822CB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1592B98-86D2-4C84-B36B-236DD1F16F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1592B98-86D2-4C84-B36B-236DD1F16F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1592B98-86D2-4C84-B36B-236DD1F16F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1592B98-86D2-4C84-B36B-236DD1F16F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AF29B4-BCA1-44DE-904D-9BFD4822CB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AF29B4-BCA1-44DE-904D-9BFD4822CB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AF29B4-BCA1-44DE-904D-9BFD4822CB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AF29B4-BCA1-44DE-904D-9BFD4822CB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DB5A04-A9AD-40F0-88EB-ACA7B94037D2}
+	EndGlobalSection
+EndGlobal
